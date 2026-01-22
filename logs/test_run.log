@@ -1,0 +1,14 @@
+2026-01-22 22:41:48 INFO  org.example.BaseTest - --- ЗАПУСК ТЕСТА: Открытие браузера Chrome ---
+2026-01-22 22:41:56 INFO  org.example.BaseTest - Открыта страница: https://www.saucedemo.com/
+2026-01-22 22:41:56 INFO  org.example.BaseTest - Тест 1: Валидный логин
+2026-01-22 22:41:56 INFO  org.example.BaseTest - Тест 1 пройден.
+2026-01-22 22:41:56 INFO  org.example.BaseTest - --- ЗАВЕРШЕНИЕ ТЕСТА: Закрытие браузера ---
+2026-01-22 22:41:56 INFO  org.example.BaseTest - --- ЗАПУСК ТЕСТА: Открытие браузера Chrome ---
+2026-01-22 22:42:01 INFO  org.example.BaseTest - Открыта страница: https://www.saucedemo.com/
+2026-01-22 22:42:01 INFO  org.example.BaseTest - Тест 2: Невалидный логин (ожидаем ошибку)
+2026-01-22 22:42:01 INFO  org.example.BaseTest - Тест 2 пройден.
+2026-01-22 22:42:01 INFO  org.example.BaseTest - --- ЗАВЕРШЕНИЕ ТЕСТА: Закрытие браузера ---
+2026-01-22 22:42:02 INFO  org.example.BaseTest - --- ЗАПУСК ТЕСТА: Открытие браузера Chrome ---
+2026-01-22 22:42:08 INFO  org.example.BaseTest - Открыта страница: https://www.saucedemo.com/
+2026-01-22 22:42:08 INFO  org.example.BaseTest - Тест 3: Специально роняем тест для проверки скриншота
+2026-01-22 22:42:19 INFO  org.example.BaseTest - --- ЗАВЕРШЕНИЕ ТЕСТА: Закрытие браузера ---
